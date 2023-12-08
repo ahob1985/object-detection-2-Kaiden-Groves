@@ -1,2 +1,2 @@
-[![Work in Repl.it](https://ahob1985.github.io/object-detection-2-Kaiden-Groves/)]
+(https://ahob1985.github.io/object-detection-2-Kaiden-Groves/)
 # hgp-ml-object-detection-2
